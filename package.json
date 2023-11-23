@@ -1,0 +1,22 @@
+{
+  "name": "zod-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "1": "tsx watch 1-basics.ts",
+    "2": "tsx watch 2-parsing.ts",
+    "3": "tsx watch 3-refine.ts",
+    "4": "tsx watch 4-enum.ts"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "tsx": "^4.3.0"
+  }
+}
